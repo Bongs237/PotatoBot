@@ -1,0 +1,2 @@
+Change the text of this file to the ID of the welcome channel of your server (e.g. the one that looks like 724810199180771358)
+To get the ID, go to Discord, click user settings, scroll down and click advanced, and turn on developer mode, now you can right click your #welcome channel and copy the ID here!
